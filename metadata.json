@@ -1,0 +1,6 @@
+{
+  "name": "HearPod",
+  "description": "Smart hearing aid amplifier for your earpods with real-time low-latency DSP, customizable frequency sliders, audiometric calibration, and device auto-detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
